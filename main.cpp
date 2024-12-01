@@ -43,6 +43,7 @@ int main()
 	std::cout << "fin " << std::endl;
 	MajStats.sortWords();
 	MajStats.printStats();
+	MajStats.writeStopWordsList("stopwords.txt");
     	
 
     return EXIT_SUCCESS;
