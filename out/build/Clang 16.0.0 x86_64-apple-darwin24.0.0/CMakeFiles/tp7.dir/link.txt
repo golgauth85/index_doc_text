@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tp7.dir/FileHandling.cpp.o CMakeFiles/tp7.dir/CWordStat.cpp.o CMakeFiles/tp7.dir/main.cpp.o -o tp7
